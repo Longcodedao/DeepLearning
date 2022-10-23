@@ -1,6 +1,4 @@
 # LeNet-5
-I will publish my deep learning codes and models
-
 
 1. LeNet-5 by Yann Lecun (1998):
   Implementing this model to detect hand-written digits numbers (0 - 9) by using MNIST dataset
